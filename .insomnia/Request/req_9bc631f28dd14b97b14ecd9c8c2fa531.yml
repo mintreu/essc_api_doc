@@ -1,0 +1,40 @@
+_id: req_9bc631f28dd14b97b14ecd9c8c2fa531
+type: Request
+parentId: fld_7a6e6aa78d11401c960d4932a231393e
+modified: 1655202765049
+created: 1655196906977
+url: http://localhost:8000/api/academy/new-group
+name: Create Academy Group
+description: |-
+  Create New Academy Group
+
+  Required parameters
+  'name','slug'
+
+
+  Optional Parameters
+  'status','parent_id'
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name" : "new Grousps",
+    	"slug" : "new-groupss",
+    	"staus" : true,
+    	"parent_id" : null
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_b13bd5609ede4d0fa760e2def56cd3e7
+authentication: {}
+metaSortKey: -1655196945077
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

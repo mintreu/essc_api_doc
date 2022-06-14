@@ -1,0 +1,24 @@
+_id: req_949fb100ee094240815707a51969cd2a
+type: Request
+parentId: fld_ec4b638706324b899c23b93103cc1cff
+modified: 1655196718237
+created: 1655195490713
+url: http://localhost:8000/api/country/AF
+name: Country Detail
+description: |-
+  Country Detail :-
+  Fetch Single Country with Associate States and Cities
+  Required parameter : country code (iso_code_2)
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1655195490713
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

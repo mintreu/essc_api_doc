@@ -1,0 +1,21 @@
+_id: req_223ce24564fe4af9b8c44ba66947d422
+type: Request
+parentId: fld_6a1543b519c741c28fe589ac4f954011
+modified: 1655196977564
+created: 1655196859122
+url: ""
+name: Academy Detail
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1655196859122
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

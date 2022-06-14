@@ -1,0 +1,21 @@
+_id: req_7f0f2becc8f341d393fbf7f37d5612a7
+type: Request
+parentId: fld_6a1543b519c741c28fe589ac4f954011
+modified: 1655202920481
+created: 1655196804053
+url: http://localhost:8000/api/academy/all
+name: All Academic
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1655196859147
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

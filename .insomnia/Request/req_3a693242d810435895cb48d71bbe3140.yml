@@ -1,0 +1,25 @@
+_id: req_3a693242d810435895cb48d71bbe3140
+type: Request
+parentId: fld_7a6e6aa78d11401c960d4932a231393e
+modified: 1655201308425
+created: 1655199583620
+url: http://localhost:8000/api/academy/group/board
+name: Academy Group Details
+description: |-
+  Fetch Single Academy Group Details
+  url : http://localhost:8000/api/academy/group/slug
+
+  slug : academy_group->slug
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1655199583620
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

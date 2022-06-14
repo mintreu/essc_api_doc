@@ -1,0 +1,22 @@
+_id: req_f1eadd57bb574c3a8b1a20b715f62ab5
+type: Request
+parentId: fld_ec4b638706324b899c23b93103cc1cff
+modified: 1655196754299
+created: 1655193399967
+url: http://localhost:8000/api/countries
+name: AllCountries
+description: |
+  Fetch All Country List
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1655153295400.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

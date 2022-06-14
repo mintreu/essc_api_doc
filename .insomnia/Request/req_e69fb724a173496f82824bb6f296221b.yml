@@ -1,26 +1,28 @@
-_id: req_b1ebb3d18ca54f2c84660bcc6ec9655f
+_id: req_e69fb724a173496f82824bb6f296221b
 type: Request
-parentId: fld_b229d8e1a83240628d18194060807a83
-modified: 1655193428797
-created: 1655113204453
-url: http://localhost:8000/api/login
-name: login
+parentId: fld_6a1543b519c741c28fe589ac4f954011
+modified: 1655203158256
+created: 1655196883490
+url: ""
+name: Create Academy
 description: ""
-method: POST
+method: GET
 body:
   mimeType: application/json
   text: |-
     {
-    		"mobile" : 9988774444,
-    		"password" : "123456ssss"
-    	}  
+    	"name" : "new Academy",
+    	"slug" : "new-academy",
+    	"meta" : [],
+    	"academy_group_id" : 1
+    }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
-    id: pair_2ad7da1c281f439b836c47f3c5bb3a8c
+    id: pair_8c4028d4cbf44a23ab874a552a56be44
 authentication: {}
-metaSortKey: -1655113204453
+metaSortKey: -1655196859172
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

@@ -1,0 +1,21 @@
+_id: req_42386e8b9238460487f100a074f78eac
+type: Request
+parentId: fld_7a6e6aa78d11401c960d4932a231393e
+modified: 1655200948077
+created: 1655196934625
+url: http://localhost:8000/api/academy/groups
+name: All Academy Group
+description: Fetch All Available Academy Groups
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1655196945127
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
