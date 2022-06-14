@@ -1,0 +1,55 @@
+_id: req_acfe5571f269478ebea7c1c8fc0b6cee
+type: Request
+parentId: fld_b229d8e1a83240628d18194060807a83
+modified: 1655185466018
+created: 1655113213075
+url: http://localhost:8000/api/register
+name: register
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"username": "amal23x",
+    	"email": "amal23x@example.com",
+    	"password": "123456ssss",
+    	"c_password": "123456ssss",
+    	"fullname": "Amal Paul",
+    	"mobile": 9988774444,
+      "mobile_verified" : true,
+    	"gender": "male",
+    	"type" : "student",
+    	"child" : false,
+    	"child_record" : {
+    		"student_type" : "",
+    		"class" : 7,
+    		"stream" : null,
+    		"medium" : "hindi",
+    		"course" : null,
+    		"academy_id" : 1
+    	},
+    	"record" : {
+    		"student_type" : "",
+    		"class" : 11,
+    		"stream" : "commerce",
+    		"medium" : "hindi",
+    		"course" : null,
+    		"academy_id" : 1
+    	}
+    	
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_22fcc42ee5c340dab6b2b765083f2907
+authentication: {}
+metaSortKey: -1655113213075
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,31 @@
+_id: req_b1ebb3d18ca54f2c84660bcc6ec9655f
+type: Request
+parentId: fld_b229d8e1a83240628d18194060807a83
+modified: 1655185833673
+created: 1655113204453
+url: http://localhost:8000/api/login
+name: login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    		"mobile" : 9988774444,
+    		"mobile_verified" : true,
+    		"password" : "123456ssss"
+    	}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_2ad7da1c281f439b836c47f3c5bb3a8c
+authentication: {}
+metaSortKey: -1655113204453
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
