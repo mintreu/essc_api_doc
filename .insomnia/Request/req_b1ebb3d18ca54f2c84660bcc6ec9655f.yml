@@ -1,7 +1,7 @@
 _id: req_b1ebb3d18ca54f2c84660bcc6ec9655f
 type: Request
 parentId: fld_b229d8e1a83240628d18194060807a83
-modified: 1655193428797
+modified: 1655447014896
 created: 1655113204453
 url: http://localhost:8000/api/login
 name: login
@@ -11,9 +11,8 @@ body:
   mimeType: application/json
   text: |-
     {
-    		"mobile" : 9988774444,
-    		"password" : "123456ssss"
-    	}  
+    		"mobile" : 9988774444
+    }  
 parameters: []
 headers:
   - name: Content-Type

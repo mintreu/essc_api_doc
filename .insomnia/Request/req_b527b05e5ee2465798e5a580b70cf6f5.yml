@@ -1,17 +1,17 @@
-_id: req_223ce24564fe4af9b8c44ba66947d422
+_id: req_b527b05e5ee2465798e5a580b70cf6f5
 type: Request
 parentId: fld_6a1543b519c741c28fe589ac4f954011
-modified: 1655374750864
-created: 1655196859122
-url: http://localhost:8000/api/academy/show/bastar-vishwavidyalaya
-name: Academy Detail
+modified: 1655367713623
+created: 1655367705316
+url: ""
+name: Get Semester
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1655196859122
+metaSortKey: -1655367705316
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

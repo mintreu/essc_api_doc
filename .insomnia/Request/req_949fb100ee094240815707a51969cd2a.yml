@@ -1,9 +1,9 @@
 _id: req_949fb100ee094240815707a51969cd2a
 type: Request
 parentId: fld_ec4b638706324b899c23b93103cc1cff
-modified: 1655196718237
+modified: 1655365720804
 created: 1655195490713
-url: http://localhost:8000/api/country/AF
+url: http://localhost:8000/api/country/IN
 name: Country Detail
 description: |-
   Country Detail :-
