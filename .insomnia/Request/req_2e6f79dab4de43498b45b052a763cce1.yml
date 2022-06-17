@@ -1,17 +1,17 @@
-_id: req_b527b05e5ee2465798e5a580b70cf6f5
+_id: req_2e6f79dab4de43498b45b052a763cce1
 type: Request
-parentId: fld_1617e89e176647d6892cfc959f104dcd
-modified: 1655447063415
-created: 1655367705316
+parentId: fld_6a1543b519c741c28fe589ac4f954011
+modified: 1655450471033
+created: 1655450471033
 url: ""
-name: Get Semester
+name: New Request
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1655367705316
+metaSortKey: -1655450471033
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

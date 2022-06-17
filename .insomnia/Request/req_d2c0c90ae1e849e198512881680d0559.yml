@@ -1,17 +1,17 @@
-_id: req_b527b05e5ee2465798e5a580b70cf6f5
+_id: req_d2c0c90ae1e849e198512881680d0559
 type: Request
 parentId: fld_1617e89e176647d6892cfc959f104dcd
-modified: 1655447063415
-created: 1655367705316
-url: ""
-name: Get Semester
+modified: 1655450846054
+created: 1655450823719
+url: http://localhost:8000/api/static/classlist
+name: Get All Classes
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1655367705316
+metaSortKey: -1655450823719
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

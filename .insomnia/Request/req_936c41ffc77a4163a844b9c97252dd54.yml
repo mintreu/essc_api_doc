@@ -1,17 +1,17 @@
-_id: req_b527b05e5ee2465798e5a580b70cf6f5
+_id: req_936c41ffc77a4163a844b9c97252dd54
 type: Request
 parentId: fld_1617e89e176647d6892cfc959f104dcd
-modified: 1655447063415
-created: 1655367705316
-url: ""
-name: Get Semester
+modified: 1655451337612
+created: 1655451298412
+url: http://localhost:8000/api/static/streamlist
+name: Get ALL Streams
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1655367705316
+metaSortKey: -1655451298412
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

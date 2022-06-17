@@ -1,17 +1,17 @@
-_id: req_b527b05e5ee2465798e5a580b70cf6f5
+_id: req_ae6d14697733459f9080ea78ee13ad76
 type: Request
 parentId: fld_1617e89e176647d6892cfc959f104dcd
-modified: 1655447063415
-created: 1655367705316
-url: ""
-name: Get Semester
+modified: 1655448738584
+created: 1655448664565
+url: http://localhost:8000/api/static/student-type
+name: Get Student Type
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1655367705316
+metaSortKey: -1655448664565
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
